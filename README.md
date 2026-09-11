@@ -92,13 +92,6 @@ A local dashboard and CLI for analyzing AI coding-tool usage, equivalent API cos
 - Developed a Fastify API, SQLite/WAL persistence, and React/Vite frontend.
 - Added CLI tooling, automated tests, and privacy safeguards.
 
-## 📂 Other Projects
-
-- [Cell Battle](https://github.com/Adudu02/Cell-Battle-Beta) — Browser strategy simulation built with React, Vite, and TypeScript.
-- [CCUI](https://github.com/Adudu02/CCUI) — Terminal UI for selecting Codex projects and conversations.
-- [Architecture Portfolio](https://github.com/Adudu02/architecture-portfolio) — Technical architecture diagrams and case studies.
-- [CODEX SSH Docker](https://github.com/Adudu02/CODEX-SSH-Docker) — Docker, Node.js, Codex CLI, and SSH practice project.
-
 ## 🎓 Education
 
 **B.A. in Mathematics Education**  
