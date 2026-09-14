@@ -24,6 +24,8 @@ I enjoy taking features from requirements and architecture through testing, CI/C
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=ffffff)
+![C#](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=ffffff)
+![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=java&logoColor=000000)
 
 ### Backend
 
