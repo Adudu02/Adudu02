@@ -82,7 +82,7 @@ A local dashboard and CLI for analyzing AI coding-tool usage, equivalent API cos
 
 - Built read-only adapters for Claude Code, Codex, and Qwen transcripts.
 - Designed an adapter-based TypeScript architecture.
-- Developed a Fastify API, SQLite/WAL persistence, and React/Vite frontend.
+- Developed a Fastify API with SQLite/WAL persistence and CLI tooling.
 - Added CLI tooling, automated tests, and privacy safeguards.
 
 ## 🎓 Education
