@@ -1,65 +1,56 @@
 # 👋 Hi, I'm Eduardo Arce Mukul
 
-### Backend Developer | Node.js/TypeScript | Python
+### Backend Software Engineer | AI Specialization | APIs, TypeScript & Python
 
-I'm a backend developer based in Mérida, Yucatán, Mexico, focused on building reliable APIs, data systems, MCP tools, and AI-assisted workflows.
+I'm a backend-focused software engineer based in Mérida, Yucatán, Mexico. I build reliable APIs, backend services, data systems, MCP tools, and AI-enabled workflows.
 
-I enjoy taking features from requirements and architecture through testing, CI/CD, and deployment.
+I take features from requirements and architecture through testing, CI/CD, and deployment.
+
+Public project: [Architecture Portfolio](https://github.com/Adudu02/architecture-portfolio)
 
 ## 🧩 What I do
 
-- Build REST APIs and event-driven services
-- Design PostgreSQL schemas with Prisma ORM
-- Develop MCP servers and AI/LLM integrations
-- Build real-time systems with WebSockets and SSE
-- Automate testing, CI/CD, and deployment workflows
-- Integrate WhatsApp, speech-to-text, and thermal printing systems
+- Build REST APIs and event-driven services with Node.js, Fastify, TypeScript, and Python
+- Design PostgreSQL schemas and Prisma models for backend workflows
+- Develop MCP servers and multi-provider LLM integrations with OpenAI, Qwen, and DeepSeek
+- Build real-time collaborative workflows with WebSockets, SSE, and Yjs
+- Automate testing and Docker-based CI/CD with GitHub Actions
+- Integrate WhatsApp and speech-to-text into AI-assisted workflows
 
 ## 🛠️ Technology
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=ffffff)
-![C#](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=ffffff)
-![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=java&logoColor=000000)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=ffffff)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge)
 
-### Frontend
+### AI and LLM Systems
 
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=ffffff)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)
-![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge)
+OpenAI API · Qwen API · DeepSeek API · multi-provider orchestration · fallback and retries · tool calling · RAG · embeddings · vector search
 
 
-### Databases
+### Data and Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=ffffff)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=ffffff)
 
 
-### DevOps and Testing
+### Cloud, DevOps and Testing
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=ffffff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=ffffff)
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=ffffff)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=ffffff)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=ffffff)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=ffffff)
 
@@ -68,20 +59,20 @@ I enjoy taking features from requirements and architecture through testing, CI/C
 ### Backend and AI Integration Developer — HypeerSpace
 
 - Owned backend and AI integration features from requirements to deployment.
+- Designed and built a multi-provider AI harness integrating OpenAI, Qwen, and DeepSeek with fallback, retries, tool calling, RAG, embeddings, and vector search.
 - Built and maintained four API services and MCP tools for AI-powered operations.
+- Reduced response latency from 240 ms to 120 ms; response accuracy increased from 70% to 90% in repeated customer-simulation tests across 8-10-message happy paths and 20-message stress paths.
 - Designed PostgreSQL schemas and Prisma models for menus, orders, clients, payments, deliveries, and printer operations.
 - Built voice ordering with speech-to-text.
-- Developed a thermal-printing bridge using MCP and Kotlin/Android ESC/POS.
-- Supported five concurrent client establishments while reducing manual operational work by approximately 40%.
 - Implemented CI/CD with GitHub Actions and GitHub Container Registry.
 
 ### Software Developer — Data Analytics Platform
 
-- Built dashboard, report-builder, and graph-visualization features.
-- Worked with SvelteKit, TypeScript, ECharts, and Svelte Flow.
-- Implemented collaborative persistence and history using Yjs, SSE/WebSockets, and Neo4j.
-- Improved role-based access control.
-- Added unit, integration, and end-to-end testing with Vitest and Playwright.
+- Delivered dashboard, report-builder, and graph-visualization features that enabled data-source connections, reporting, and interactive analysis.
+- Improved collaborative workspace persistence and history/undo workflows using Yjs and SSE/WebSockets, reducing data-loss risk across MongoDB- and Neo4j-backed state.
+- Migrated document uploads from the local filesystem to AWS S3-backed storage with IAM controls, enabling shared and access-controlled storage for analytics workspaces.
+- Fixed three production persistence defects that caused lost workspace state across MongoDB- and Neo4j-backed workflows; added Vitest/Playwright coverage for persistence and end-to-end flows to prevent regressions.
+- Implemented owner and guest role-based access control, restricting access to dashboard, graph, and workspace data.
 
 ## 🚀 Featured Project
 
@@ -98,7 +89,7 @@ A local dashboard and CLI for analyzing AI coding-tool usage, equivalent API cos
 
 **B.A. in Mathematics Education**  
 Universidad Autónoma de Yucatán — Faculty of Mathematics  
-2020 – 2026 · GPA: 88.9/100
+2020 – 2026
 
 ## 🌎 Languages
 
