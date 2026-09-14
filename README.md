@@ -100,4 +100,3 @@ Universidad Autónoma de Yucatán — Faculty of Mathematics
 
 - Email: [arcemukul@gmail.com](mailto:arcemukul@gmail.com)
 - GitHub: [@Adudu02](https://github.com/Adudu02)
-- Live project: [Cell Battle](https://cell-battle-beta.vercel.app/)
