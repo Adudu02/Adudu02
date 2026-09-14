@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Eduardo Arce Mukul
 
-### Backend Software Engineer | AI Specialization | APIs, TypeScript & Python
+### Full Stack Software Engineer | AI Specialization | APIs, TypeScript, React, Node.js
 
-I'm a backend-focused software engineer based in Mérida, Yucatán, Mexico. I build reliable APIs, backend services, data systems, MCP tools, and AI-enabled workflows.
+Backend-oriented software engineer with professional experience building and maintaining APIs, web services, and AI-enabled systems. Designed a multi-provider AI harness and backend services integrating OpenAI, Qwen, and DeepSeek with fallback, retries, tool calling, RAG, embeddings, and vector search. Experienced with TypeScript, JavaScript, Python, Node.js, Fastify, PostgreSQL, Docker, and CI/CD.
 
 I take features from requirements and architecture through testing, CI/CD, and deployment.
 
@@ -15,22 +15,29 @@ Public project: [Architecture Portfolio](https://github.com/Adudu02/architecture
 - Develop MCP servers and multi-provider LLM integrations with OpenAI, Qwen, and DeepSeek
 - Build real-time collaborative workflows with WebSockets, SSE, and Yjs
 - Automate testing and Docker-based CI/CD with GitHub Actions
-- Integrate WhatsApp and speech-to-text into AI-assisted workflows
 
 ## 🛠️ Technology
 
-### Languages
+### Programming Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=ffffff)
 
-### Backend
+### Backend and APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=ffffff)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge)
+
+### Frameworks
+
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff)
 
 ### AI and LLM Systems
 
@@ -58,45 +65,34 @@ OpenAI API · Qwen API · DeepSeek API · multi-provider orchestration · fallba
 
 ### Backend and AI Integration Developer — HypeerSpace
 
-- Owned backend and AI integration features from requirements to deployment.
+- Led customer discovery for KitchenBot by translating prospective clients' operational pain points into prioritized user stories, acceptance criteria, and end-to-end workflows that shaped the AI agent and backend services.
+- Built and deployed a production WhatsApp kitchen assistant for order-taking and kitchen-operations workflows.
 - Designed and built a multi-provider AI harness integrating OpenAI, Qwen, and DeepSeek with fallback, retries, tool calling, RAG, embeddings, and vector search.
-- Built and maintained four API services and MCP tools for AI-powered operations.
-- Reduced response latency from 240 ms to 120 ms; response accuracy increased from 70% to 90% in repeated customer-simulation tests across 8-10-message happy paths and 20-message stress paths.
+- Built and maintained four API services and MCP tools connecting WhatsApp management, backend operations, order-taking, and printing workflows.
+- Reduced response latency from 240 ms to 120 ms; response accuracy increased from 70% to 90% in repeated customer-simulation tests across 8-10-message happy paths and 20-message stress paths, with qualitative validation from client testers.
+- Troubleshot production incidents, including server outages and backend failures, and configured CI/CD with GitHub Actions and GHCR for Docker-based releases.
 - Designed PostgreSQL schemas and Prisma models for menus, orders, clients, payments, deliveries, and printer operations.
-- Built voice ordering with speech-to-text.
-- Implemented CI/CD with GitHub Actions and GitHub Container Registry.
 
 ### Software Developer — Data Analytics Platform
 
-- Delivered dashboard, report-builder, and graph-visualization features that enabled data-source connections, reporting, and interactive analysis.
+- Delivered dashboard, report-builder, and graph-visualization features that enabled data-source connections, reporting, and interactive analysis with SvelteKit, TypeScript, ECharts, and Svelte Flow.
 - Improved collaborative workspace persistence and history/undo workflows using Yjs and SSE/WebSockets, reducing data-loss risk across MongoDB- and Neo4j-backed state.
 - Migrated document uploads from the local filesystem to AWS S3-backed storage with IAM controls, enabling shared and access-controlled storage for analytics workspaces.
 - Fixed three production persistence defects that caused lost workspace state across MongoDB- and Neo4j-backed workflows; added Vitest/Playwright coverage for persistence and end-to-end flows to prevent regressions.
 - Implemented owner and guest role-based access control, restricting access to dashboard, graph, and workspace data.
 
-## 🚀 Featured Project
-
-### [DFT — AI Usage Analytics Dashboard](https://github.com/Adudu02/DFT)
-
-A local dashboard and CLI for analyzing AI coding-tool usage, equivalent API costs, and token waste.
-
-- Built read-only adapters for Claude Code, Codex, and Qwen transcripts.
-- Designed an adapter-based TypeScript architecture.
-- Developed a Fastify API with SQLite/WAL persistence and CLI tooling.
-- Added CLI tooling, automated tests, and privacy safeguards.
-
 ## 🎓 Education
 
 **B.A. in Mathematics Education**  
 Universidad Autónoma de Yucatán — Faculty of Mathematics  
-2020 – 2026
+Sep 2020 – Jul 2026
 
 ## 🌎 Languages
 
-- Spanish — Native
-- English
+- English — Advanced
 
 ## 📫 Contact
 
 - Email: [arcemukul@gmail.com](mailto:arcemukul@gmail.com)
+- LinkedIn: [eduardo-arce-mukul-547855223](https://www.linkedin.com/in/eduardo-arce-mukul-547855223/)
 - GitHub: [@Adudu02](https://github.com/Adudu02)
