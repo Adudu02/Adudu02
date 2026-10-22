@@ -34,6 +34,7 @@ I build backend services, REST APIs, data-driven applications, and AI integratio
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -54,6 +55,7 @@ I build backend services, REST APIs, data-driven applications, and AI integratio
 - Integrated OpenAI, Qwen, and DeepSeek with fallback, retries, tool calling, RAG, embeddings, and vector search.
 - Built an MCP-to-Android thermal-printer bridge using Kotlin, Bluetooth, and ESC/POS.
 - Reduced response latency from 240 ms to 120 ms and increased accuracy from 70% to 90% in repeated customer-simulation tests.
+- Used n8n in a CI/CD workflow for KitchenBot.
 - Configured Docker-based CI/CD with GitHub Actions and GHCR.
 
 ### Full Stack Developer — HypeerSpace
